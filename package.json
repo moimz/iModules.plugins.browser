@@ -1,0 +1,22 @@
+{
+    "id": "tools.moimz.imodules.plugins.browser",
+    "icon": "xi xi-letter",
+    "title": {
+        "ko": "브라우저 체크"
+    },
+    "version": "4.0.0",
+    "description": {
+        "ko": "구버전 브라우저인 경우 브라우저 업데이트 안내 메시지를 출력한다."
+    },
+    "author": {
+        "name": "Arzz",
+        "email": "arzz@arzz.com"
+    },
+    "homepage": "https://www.imodules.io",
+    "versionChecker": "https://api.moimz.com/download/latest",
+    "dependencies": {
+        "core": "4.0.0"
+    },
+    "language": "ko",
+    "listeners": true
+}
